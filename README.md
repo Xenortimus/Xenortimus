@@ -14,3 +14,8 @@
   - Alcohol
   - Drugs
   - Vapes/Smoking
+
+- 📚 Some plans:
+  - Create a profile on LinkedIn
+  - Create an account on Reddit, where I will post various stories from life, and ask for advice
+  - Create a course on the Stepik related to the development of Discord bot on Python
