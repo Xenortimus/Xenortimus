@@ -4,7 +4,7 @@
 - 📫 How to reach me?
   - Mail: `xenortimus@proton.me`
   - Jabber: `N/A`
-  - Telegram: [@xenortimus](https://t.me/xenortimus)
+  - Telegram: `N/A`
   
 - ⚡ Fun(no) facts:
   - I'm an introvert
